@@ -21,17 +21,13 @@ Assim como demonstrado durante o desafio, realizada criação do script SQL para
 - Não há um mínimo de queries a serem realizadas;</br>
 - Os tópicos supracitados devem estar presentes nas queries;</br>
 - Elaboração de perguntas que podem ser respondidas pelas consultas;</br>
-- As cláusulas podem estar presentes em mais de uma query. </br></br>
+- As cláusulas podem estar presentes em mais de uma query. </br>
 
-<h4> Apliçação do mapeamento para o  cenário:</h4>
+<h4> Cenário a ser modelado no SQL</h4>
 
-“Refine o modelo apresentado acrescentando os seguintes pontos:” 
+![ecommerce_relational_schema](https://github.com/user-attachments/assets/5c1d9c34-50d6-4531-b68f-3d3af6666967)
 
-- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;</br>
-- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;</br>
-- Entrega – Possui status e código de rastreio.</br>
-
-Algumas das perguntas que são possíveis de realizar para embasar as queries SQL:
+<h4>Perguntas a serem respondidas através das queries:</h4>
 
 - Quantos pedidos foram feitos por cada cliente?</br>
 - Algum vendedor também é fornecedor?</br>
