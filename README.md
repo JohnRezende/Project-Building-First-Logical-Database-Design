@@ -33,3 +33,8 @@ Assim como demonstrado durante o desafio, realizada criação do script SQL para
 - Algum vendedor também é fornecedor?</br>
 - Relação de produtos fornecedores e estoques;</br>
 - Relação de nomes dos fornecedores e nomes dos produtos.</br>
+
+<h3>  Certificado </h3> 
+
+[LHD1YKCJ.pdf](https://github.com/user-attachments/files/19693522/LHD1YKCJ.pdf)
+
